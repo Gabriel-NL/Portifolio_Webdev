@@ -1,0 +1,4 @@
+npm create vite
+cd Portifolio
+npm install
+npm run dev
