@@ -1,0 +1,45 @@
+Summary:
+-must include the pages "Home","About Me","Projects", "Services" and "Contact Me".
+-must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.
+-must include a Custom Logo for your site, this should be placed in or around the main Navigation bar.
+
+-home page must include:
+    -a welcome message 
+    -a link or button that redirects user to your About Me Page and(or) other pages. 
+    -some sort of Mission Statement.
+
+-Your About Me Page should include: 
+    -your legal name
+    -an image of you (I recommend a head and shoulders shot)
+    -a short paragraph about who you are. Keep this clean and simple as it may be viewed by perspective employers.
+    -a link to a PDF version of your Resume.
+
+-Your Projects Page should include: 
+    -images and information for at least 3 Projects you wish to highlight. 
+    (current projects you are working on or past projects you have completed)
+    -an image for each Project 
+    -a short description of your role and the outcome. 
+
+
+Instructions:
+This site must include the pages from your Personal Portfolio 5 pages – your Home page, an About Me page, a Projects page, a Services page, and a Contact Me page.
+
+1.	Your Site must include the appropriate content for a Personal Portfolio (65 Marks: Content)
+a.	You must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.
+b.	You must include a Custom Logo for your site, this should be placed in or around the main Navigation bar. The Custom Logo can be as simple or artistic as you desire (e.g. you could use a primitive colour-filled shape like a triangle or hexagon with your initials positioned inside). Please do not use a logo that belongs to another company or person.
+c.	Your Home Page should include some sort of welcome message and link or button that allows the user to redirect to your About Me Page and / or other pages. I recommend also including some sort of Mission Statement.
+d.	Your About Me Page should include your legal name, an image of you (I recommend a head and shoulders shot), a short paragraph about who you are. Keep this clean and simple as it may be viewed by perspective employers.
+e.	Your About Me page should include a link to a PDF version of your Resume.
+f.	Your Projects Page should include images and information for at least 3 Projects you wish to highlight. These could be current projects you are working on or past projects you have completed. Include an image for each Project and a short description of your role and the outcome. 
+
+Instructions:
+This site must include the pages from your Personal Portfolio 5 pages – your Home page, an About Me page, a Projects page, a Services page, and a Contact Me page.
+
+1.	Your Site must include the appropriate content for a Personal Portfolio (65 Marks: Content)
+a.	You must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.
+b.	You must include a Custom Logo for your site, this should be placed in or around the main Navigation bar. The Custom Logo can be as simple or artistic as you desire (e.g. you could use a primitive colour-filled shape like a triangle or hexagon with your initials positioned inside). Please do not use a logo that belongs to another company or person.
+c.	Your Home Page should include some sort of welcome message and link or button that allows the user to redirect to your About Me Page and / or other pages. I recommend also including some sort of Mission Statement.
+d.	Your About Me Page should include your legal name, an image of you (I recommend a head and shoulders shot), a short paragraph about who you are. Keep this clean and simple as it may be viewed by perspective employers.
+e.	Your About Me page should include a link to a PDF version of your Resume.
+f.	Your Projects Page should include images and information for at least 3 Projects you wish to highlight. These could be current projects you are working on or past projects you have completed. Include an image for each Project and a short description of your role and the outcome. 
+
