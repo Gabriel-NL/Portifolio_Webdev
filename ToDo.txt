@@ -1,11 +1,11 @@
 Summary:
--must include the pages "Home","About Me","Projects", "Services" and "Contact Me".
--must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.
--must include a Custom Logo for your site, this should be placed in or around the main Navigation bar.
+-must include the pages "Home","About Me","Projects", "Services" and "Contact Me".(Done)
+-must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.(Done)
+-must include a Custom Logo for your site, this should be placed in or around the main Navigation bar. (Done)
 
 -home page must include:
-    -a welcome message 
-    -a link or button that redirects user to your About Me Page and(or) other pages. 
+    -a welcome message (Done)
+    -a link or button that redirects user to your About Me Page and(or) other pages. (Done)
     -some sort of Mission Statement.
 
 -Your About Me Page should include: 
