@@ -2,3 +2,5 @@ npm create vite
 cd Portifolio
 npm install
 npm run dev
+
+npm i gh-pages --save-dev
