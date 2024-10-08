@@ -1,24 +1,24 @@
 Summary:
--must include the pages "Home","About Me","Projects", "Services" and "Contact Me".
--must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.
--must include a Custom Logo for your site, this should be placed in or around the main Navigation bar.
+-must include the pages "Home","About Me","Projects", "Services" and "Contact Me".(Done)
+-must include a Navigation Bar or other Navigation scheme that allows the user to view each page of your site.(Done)
+-must include a Custom Logo for your site, this should be placed in or around the main Navigation bar. (Done)
 
 -home page must include:
-    -a welcome message 
-    -a link or button that redirects user to your About Me Page and(or) other pages. 
-    -some sort of Mission Statement.
+    -a welcome message (Done)
+    -a link or button that redirects user to your About Me Page and(or) other pages. (Done)
+    -some sort of Mission Statement.(Done)
 
 -Your About Me Page should include: 
-    -your legal name
-    -an image of you (I recommend a head and shoulders shot)
-    -a short paragraph about who you are. Keep this clean and simple as it may be viewed by perspective employers.
-    -a link to a PDF version of your Resume.
+    -your legal name(Done)
+    -an image of you (I recommend a head and shoulders shot)(Done)
+    -a short paragraph about who you are. Keep this clean and simple as it may be viewed by perspective employers.(Done)
+    -a link to a PDF version of your Resume.(Done)
 
 -Your Projects Page should include: 
-    -images and information for at least 3 Projects you wish to highlight. 
+    -images and information for at least 3 Projects you wish to highlight.(Done) 
     (current projects you are working on or past projects you have completed)
-    -an image for each Project 
-    -a short description of your role and the outcome. 
+    -an image for each Project (Done)
+    -a short description of your role and the outcome. (Done)
 
 
 Instructions:
