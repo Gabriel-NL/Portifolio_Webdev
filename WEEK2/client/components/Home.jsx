@@ -32,6 +32,7 @@ const pStyle = {
   margin: '0', // Remove margin for paragraph
   color:'#ffffff'
 };
+
 const linkStyle = {
   color: '#FFFFFF', // Set the text color to black
   textDecoration: 'none', // Optional: remove underline
